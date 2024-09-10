@@ -10,3 +10,10 @@ This tutorial guides you through building a sleek calculator using vanilla HTML,
 - Support for decimal numbers.
 - Percentage calculations.
 - Toggle between positive and negative numbers.
+
+  
+## Technologies Used
+
+- **Java:** For backend logic and calculations
+- **HTML:** For structuring the web application
+- **CSS:** For styling and responsive design
